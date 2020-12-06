@@ -1,0 +1,14 @@
+{
+  "name": "1031",
+  "version": "1.0.0",
+  "description": "A discord bot inspired by the Leitner system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nlhm",
+  "license": "CC0",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

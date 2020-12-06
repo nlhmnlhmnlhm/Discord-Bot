@@ -1,0 +1,15 @@
+[
+    {
+        "question":"Que contient une solution aqueuse ?",
+        "answers":["de l'eau","eau","water","H_2O"],
+        "box":1
+        
+    },
+    
+    {
+        "question":"Quelle est la formule de la molécule d'eau ?",
+        "answers":["H_2O"],
+        "box":2
+        
+    }
+]
